@@ -10,7 +10,7 @@ import EventDetails from "./Components/EventDetails";
 
 export default function App() {
   return (
-    <Router basename="/ShyftPlan-CS-Task">
+    <Router>
       <div>
         <Switch>
           <Route exact path="/events/:id" component={EventDetails} />

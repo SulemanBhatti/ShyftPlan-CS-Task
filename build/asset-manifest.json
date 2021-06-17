@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ShyftPlan-CS-Task/static/css/main.08189fd6.chunk.css",
-    "main.js": "/ShyftPlan-CS-Task/static/js/main.e5693d0e.chunk.js",
-    "main.js.map": "/ShyftPlan-CS-Task/static/js/main.e5693d0e.chunk.js.map",
-    "runtime-main.js": "/ShyftPlan-CS-Task/static/js/runtime-main.84d482da.js",
-    "runtime-main.js.map": "/ShyftPlan-CS-Task/static/js/runtime-main.84d482da.js.map",
-    "static/css/2.1dd069c0.chunk.css": "/ShyftPlan-CS-Task/static/css/2.1dd069c0.chunk.css",
-    "static/js/2.831777f0.chunk.js": "/ShyftPlan-CS-Task/static/js/2.831777f0.chunk.js",
-    "static/js/2.831777f0.chunk.js.map": "/ShyftPlan-CS-Task/static/js/2.831777f0.chunk.js.map",
-    "index.html": "/ShyftPlan-CS-Task/index.html",
-    "static/css/2.1dd069c0.chunk.css.map": "/ShyftPlan-CS-Task/static/css/2.1dd069c0.chunk.css.map",
-    "static/css/main.08189fd6.chunk.css.map": "/ShyftPlan-CS-Task/static/css/main.08189fd6.chunk.css.map",
-    "static/js/2.831777f0.chunk.js.LICENSE.txt": "/ShyftPlan-CS-Task/static/js/2.831777f0.chunk.js.LICENSE.txt"
+    "main.css": "/ShyftPlan-CS-Task/build/index.html/static/css/main.08189fd6.chunk.css",
+    "main.js": "/ShyftPlan-CS-Task/build/index.html/static/js/main.4e974ea1.chunk.js",
+    "main.js.map": "/ShyftPlan-CS-Task/build/index.html/static/js/main.4e974ea1.chunk.js.map",
+    "runtime-main.js": "/ShyftPlan-CS-Task/build/index.html/static/js/runtime-main.7e2b51ed.js",
+    "runtime-main.js.map": "/ShyftPlan-CS-Task/build/index.html/static/js/runtime-main.7e2b51ed.js.map",
+    "static/css/2.1dd069c0.chunk.css": "/ShyftPlan-CS-Task/build/index.html/static/css/2.1dd069c0.chunk.css",
+    "static/js/2.831777f0.chunk.js": "/ShyftPlan-CS-Task/build/index.html/static/js/2.831777f0.chunk.js",
+    "static/js/2.831777f0.chunk.js.map": "/ShyftPlan-CS-Task/build/index.html/static/js/2.831777f0.chunk.js.map",
+    "index.html": "/ShyftPlan-CS-Task/build/index.html/index.html",
+    "static/css/2.1dd069c0.chunk.css.map": "/ShyftPlan-CS-Task/build/index.html/static/css/2.1dd069c0.chunk.css.map",
+    "static/css/main.08189fd6.chunk.css.map": "/ShyftPlan-CS-Task/build/index.html/static/css/main.08189fd6.chunk.css.map",
+    "static/js/2.831777f0.chunk.js.LICENSE.txt": "/ShyftPlan-CS-Task/build/index.html/static/js/2.831777f0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.84d482da.js",
+    "static/js/runtime-main.7e2b51ed.js",
     "static/css/2.1dd069c0.chunk.css",
     "static/js/2.831777f0.chunk.js",
     "static/css/main.08189fd6.chunk.css",
-    "static/js/main.e5693d0e.chunk.js"
+    "static/js/main.4e974ea1.chunk.js"
   ]
 }
