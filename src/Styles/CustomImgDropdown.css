@@ -1,0 +1,15 @@
+
+.div-flex{
+    display: flex;
+  }
+
+ .emp-img-select{
+    border-radius: 50%; 
+    height:35px; 
+    width:35px;
+ } 
+
+ .emp-name-select{
+   font-size: 12px; 
+   margin-left:5px;
+ }
