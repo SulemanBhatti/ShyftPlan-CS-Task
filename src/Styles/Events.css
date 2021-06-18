@@ -10,6 +10,29 @@
   cursor: pointer;
 }
 
+.header {
+  display: flex;
+  justify-content: space-between;
+  background: #dddddd;
+  font-weight: bold;
+  padding: 10px 0;
+}
+
+.header .form-width {
+  display: inline-flex;
+  margin: 12px;
+}
+
+.header input {
+  margin: auto 10px;
+}
+.header .rdt {
+  flex: 1;
+}
+
+.header .datetime {
+  width: fit-content;
+}
 
 table {
   font-family: arial, sans-serif;
@@ -17,7 +40,8 @@ table {
   width: 100%;
 }
 
-td, th {
+td,
+th {
   border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;
@@ -43,25 +67,25 @@ tr:nth-child(even) {
 }
 
 .button1 {
-  background-color: white; 
-  color: black; 
-  border: 2px solid #4CAF50;
+  background-color: white;
+  color: black;
+  border: 2px solid #4caf50;
 }
 
 .button1:hover {
-  background-color: #4CAF50;
+  background-color: #4caf50;
   color: white;
 }
 
-.div-flex{
+.div-flex {
   display: flex;
 }
 
-.datetime{
+.datetime {
   height: 40px;
   width: 20%;
   border-color: green;
   border-radius: 5px;
   margin: 5px;
-  text-align: center; 
+  text-align: center;
 }
